@@ -1,1 +1,3 @@
-# Stock-Price-Prediction-for-Technology-Sector-using-Time-Series-Modelling
+# Stock Price Prediction for Technology Sector using Time Series Modelling
+
+This project focuses on forecasting stock prices for leading companies such as Apple, Microsoft, NVIDIA, Tesla, Intel, Alphabet, and Meta Platforms. Historical stock data is collected using the Yahoo Finance API (yfinance). Advanced time series models, including ARIMA, SARIMA, LSTM, and RNN, are employed to predict future prices. Model performance is evaluated using R-Squared and Normalized Root Mean Squared Error (N-RMSE). The data spans from 2013 to 2023, with 2013 yo 2020 used to training and 2021 to 2023 for testing the model. Among the models tested, the XX model outperformed others, demonstrating superior forecasting accuracy. As a result, this method is deployed using Streamlit, providing an interactive and user-friendly platform for real-time stock price prediction.
